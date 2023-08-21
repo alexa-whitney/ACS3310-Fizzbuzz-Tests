@@ -1,3 +1,7 @@
+# Screenshot of Test Coverage
+![Screenshot](https://i.imgur.com/ZXZVRaB.png)
+
+
 # Fizz Buzz Unit Tests
 
 Fizz Buzz starter code for FEW 2.1
